@@ -1,0 +1,15 @@
+C:\Users\adomin\source\repos\Space Invaders\bin\Debug\Space Invaders.exe.config
+C:\Users\adomin\source\repos\Space Invaders\bin\Debug\Space Invaders.exe
+C:\Users\adomin\source\repos\Space Invaders\bin\Debug\Space Invaders.pdb
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\MainWindow.g.cs
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\App.g.cs
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders_MarkupCompile.cache
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders_MarkupCompile.lref
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\MainWindow.baml
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.g.resources
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space_Invaders.Properties.Resources.resources
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.csproj.GenerateResource.cache
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.exe
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.pdb
+C:\Users\adomin\source\repos\Space Invaders\obj\Debug\Space Invaders.csproj.AssemblyReference.cache
